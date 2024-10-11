@@ -41,7 +41,7 @@ Here are a few projects I've worked on:
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn](https://www.linkedin.com/in/cpp-thunder)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
 
