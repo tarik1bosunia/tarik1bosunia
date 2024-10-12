@@ -43,7 +43,10 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/cpp-thunder)
 - [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [telegram](https://t.me/tarik_mtb/)
+- [facebook](https://www.facebook.com/tarik.mtb/)
+- [Personal Website](https://tarik1bosunia.github.io/)
+- 
 
 ## 📝 Blog Posts
 
