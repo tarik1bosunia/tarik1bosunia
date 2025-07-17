@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I'm Md. Tarik Bosunia</h1>
 <h3 align="center"> Full Stack Developer (Django + Next.js) | AI & Real-Time App Enthusiast </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarik1bosunia&label=Profile%20views&color=0e75b6&style=flat" alt="tarik1bosunia" />
+</p>
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer with a focus on creating dynamic and user-friendly web applications using modern technologies.
 
