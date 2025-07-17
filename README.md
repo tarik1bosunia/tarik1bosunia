@@ -1,4 +1,5 @@
-﻿# 👋 Hi there, I'm Md Tarik Bosunia
+<h1 align="center">Hi , I'm Md. Tarik Bosunia</h1>
+<h3 align="center"> A Passionate Full Stack Web  Developer(Django, Django Rest FrameWork Backend and NextJs Frontend) from Bangladesh</h3>
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer with a focus on creating dynamic and user-friendly web applications using modern technologies.
 
