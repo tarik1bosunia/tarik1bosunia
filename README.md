@@ -56,6 +56,14 @@
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarikbosunia&show_icons=true&theme=tokyonight" alt="tarikbosunia stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikbosunia&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikbosunia&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ## 📈 Projects
 
 Here are a few projects I've worked on:
