@@ -56,6 +56,8 @@
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -64,22 +66,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikbosunia&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📈 Projects
+---
 
-Here are a few projects I've worked on:
+### Let’s Connect
 
-- [Yousrobd.com](https://yousrobd.com): A website built using Django and React, showcasing user ratings for professors.
-- [Project 2](https://github.com/yourusername/project2): Brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3): Brief description of Project 3.
+<p align="left">
+  <a href="https://www.linkedin.com/in/cpp-thunder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tarik.cse.ru@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/tarikbosunia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/tarik_mtb/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.facebook.com/tarik.mtb/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://tarik1bosunia.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-## 🌍 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/cpp-thunder)
-- [Twitter](https://twitter.com/yourusername)
-- [telegram](https://t.me/tarik_mtb/)
-- [facebook](https://www.facebook.com/tarik.mtb/)
-- [Personal Website](https://tarik1bosunia.github.io/)
-- 
 
 ## 📝 Blog Posts
 
