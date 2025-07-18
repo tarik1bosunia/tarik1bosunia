@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=tarik1bosunia&label=Profile%20views&color=0e75b6&style=flat" alt="tarik1bosunia" />
 </p>
 
+---
+
 ### About Me
 
 - Final-year CSE student at the University of Rajshahi
@@ -13,6 +15,8 @@
 - Skilled in designing secure, high-performance APIs and clean frontend UIs
 - Always exploring scalable backend architectures, modern React ecosystems, and AI integrations
 - Currently focused on integrating multi-agent LLM systems into real-world web products
+
+---
 
 ### Tech Stack
 
