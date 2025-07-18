@@ -18,6 +18,34 @@
 
 ---
 
+### 🚀 Top Projects
+
+Here are a few highlights from my portfolio:
+
+- 🤖 [**AI Messaging Platform**](https://github.com/tarik1bosunia/ai-business-chat-platform)  
+  Real-time AI assistant for Facebook & WhatsApp using Django, Next.js, WebSocket, LangChain, and Gemini/GPT/Custom Model.
+
+- 🔧 [**RateTeach**](https://github.com/tarik1bosunia/rateteach)  
+  A full-stack professor/institution rating platform with JWT & Google OAuth, infinite scroll, and Docker deployment.
+
+- 🛍️ [**Yusro E-commerce Platform**](https://github.com/tarik1bosunia/yusro-ecommerce)  
+  A fully responsive online store with cart, order management, and secure payments.
+
+- 📱 [**Country Info App**](https://github.com/tarik1bosunia/country-app)  
+  A responsive web app built with React, Tailwind, and REST APIs to explore country-level data.
+
+- ✅ [**To-Do App**](https://github.com/tarik1bosunia/todo-app)  
+  A clean and minimalistic to-do app with local storage and filter features.
+
+- 🧠 [**EyeOpth - MCQ Exam Platform**](https://github.com/tarik1bosunia/eyeopth)  
+  An online MCQ testing app with real-time scoring, ideal for academic use.
+
+---
+
+You can also check out my full list of projects on [GitHub ↗](https://github.com/tarik1bosunia).
+
+---
+
 ### Tech Stack
 
 #### Languages
