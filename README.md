@@ -91,17 +91,12 @@
   </a>
 </p>
 
+---
 
-
-## 📝 Blog Posts
-
-- [My Journey as a Developer](https://yourblog.com/your-post)
-- [Getting Started with Django](https://yourblog.com/your-post)
-
-## 🧑‍💻 I'm currently working on
-
-- Exploring new frameworks and libraries in the JavaScript ecosystem.
-- Building a personal project that focuses on [insert project idea or goal].
+### Quick Facts
+- Exploring LangChain agents, Postgres memory, and real-time AI chat
+- Building scalable platforms powered by Django + Next.js
+- Ask me about: real-time apps, RTK Query, WebSockets, LLM integration
 
 ---
 
