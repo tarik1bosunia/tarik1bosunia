@@ -71,13 +71,13 @@
 ### Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/cpp-thunder" target="_blank">
+  <a href="https://www.linkedin.com/in/tarik-bosunia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tarik.cse.ru@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/tarikbosunia" target="_blank">
+  <a href="https://github.com/tarik1bosunia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/tarik_mtb/" target="_blank">
